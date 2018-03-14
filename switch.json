@@ -1,7 +1,7 @@
 [
   {
     "user": "yovole",
-    "pwd": "Yovole.com",
+    "pwd": "xxx",
     "ip": "10.3.12.235",
     "port": 22,
     "cmd": "reset l2vpn mac-address",
@@ -9,7 +9,7 @@
   },
   {
     "user": "root",
-    "pwd": "root",
+    "pwd": "xxx",
     "ip": "10.3.10.196",
     "port": 22,
     "cmd": "ls",
